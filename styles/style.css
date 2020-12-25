@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+}
+
+.container table {
+    margin: 20px auto;
+}
+
+.container table tr td {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+
+.container table tr td:hover {
+    background: rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
